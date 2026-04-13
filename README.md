@@ -1,4 +1,5 @@
 # PDF Reference Audit
+https://doi.org/10.5281/zenodo.19556791
 
 The PDF Reference Audit is a systematic method for analyzing and validating the references cited within a PDF document. It is designed to assess the integrity, traceability, and reliability of cited sources, particularly in research, policy, technical, or investigative contexts.
 
